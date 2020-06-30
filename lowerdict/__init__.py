@@ -1,8 +1,6 @@
-#!/usr/bin/env python
-import public
+__all__ = ['lowerdict']
 
 
-@public.add
 def lowerdict(*args, **kwargs):
     """return dict with lowercase keys"""
     inputdict = dict(*args, **kwargs)

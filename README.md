@@ -1,21 +1,16 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/lowerdict.svg?longCache=True)](https://pypi.org/project/lowerdict/)
-[![](https://img.shields.io/pypi/v/lowerdict.svg?maxAge=3600)](https://pypi.org/project/lowerdict/)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/lowerdict.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/lowerdict.py/)
 
-#### Installation
+[![](https://img.shields.io/pypi/v/lowerdict.svg?maxAge=3600)](https://pypi.org/project/lowerdict/)
+[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/lowerdict.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/lowerdict.py/actions)
+
+### Installation
 ```bash
 $ [sudo] pip install lowerdict
 ```
-
-#### Functions
-function|`__doc__`
--|-
-`lowerdict.lowerdict(*args, **kwargs)` |return dict with lowercase keys
 
 #### Examples
 ```python
@@ -27,5 +22,5 @@ lowerdict({"KEY": "value", "KEY2": "value2"})
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
